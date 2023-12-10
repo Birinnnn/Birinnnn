@@ -13,6 +13,7 @@ Hi there! 👋 I'm Anıl İlağa<br>I'm a Junior Computer Science student at Bil
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Birinnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Birinnnn&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birinnnn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
