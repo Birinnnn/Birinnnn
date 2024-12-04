@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Anıl İlağa<br>I'm a Junior Computer Science student at Bilkent University. I am actively seeking internships to apply and expand my programming knowledge in real-world scenarios.<br><br>📚 Education<br>🎓 Bilkent University - B.S. in Computer Science (2020 - 2025)<br> 🌱 I’m currently learning<br>Spring framework<br>💼 Professional Experience<br>Currently seeking internships...<br><br>📫 How to reach me<br>Please feel free to send me an email at anililaga@hotmail.com or reach out through any of the social media links on my website.<br><br>
+Hi there! 👋 I'm Anıl İlağa<br>I'm a Senior Computer Science student at Bilkent University. I am actively seeking internships to apply and expand my programming knowledge in real-world scenarios.<br><br>📚 Education<br>🎓 Bilkent University - B.S. in Computer Science (2020 - 2025)<br> 🌱 I’m currently learning<br>Spring framework<br>💼 Professional Experience<br>Currently seeking internships...<br><br>📫 How to reach me<br>Please feel free to send me an email at anililaga@hotmail.com or reach out through any of the social media links on my website.<br><br>
 
 
 ## 🌐 Socials:
